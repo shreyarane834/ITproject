@@ -1,4 +1,4 @@
-# AlterYou — Product Vision Statement
+# Product Vision Statement
 
 **FOR — Target Customer**
 
