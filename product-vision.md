@@ -2,15 +2,16 @@
 
 **FOR — Target Customer**
 
-Students young adults.
+- Students
+- Young adults.
 
 **WHO — Need or Opportunity**
 
-people who Want to become more confident, socially comfortable but struggle to translate their ideal self into real life actions.
+- People who Want to become more confident, socially comfortable but struggle to translate their ideal self into real life actions.
 
 **THE PRODUCT — Name and Category**
 
-**AlterYou** 
+- **AlterYou** 
 
 **THAT — Key Benefits**
 
@@ -21,8 +22,9 @@ people who Want to become more confident, socially comfortable but struggle to t
 
 **UNLIKE — Existing Alternatives**
 
-Generic AI chatbots, motivational apps.
+- Generic AI chatbots
+- Motivational apps.
 
 **OUR PRODUCT — Primary Differentiation**
 
-It creates personalized scenarios based on users' goals and desired traits, helping them practise being their ideal selves in real life.
+- It creates personalized scenarios based on users' goals and desired traits, helping them practise being their ideal selves in real life.
