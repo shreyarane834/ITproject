@@ -1,4 +1,4 @@
-#h1 A product vision
+# A product vision
 **For** : Students or Young adults
 __Who__ : Want to become more confident, socially comfortable but struggle to translate their ideal self into real life actions.
 **Product Name**: AlterYou. //add comment later like a short explanation
