@@ -2,26 +2,27 @@
 
 **FOR — Target Customer**
 
-Students and young adults who want to develop greater confidence, assertiveness, and social skills.
+Students young adults.
 
 **WHO — Need or Opportunity**
 
-People who struggle to translate their ideal self into real-life actions and want a safe space to practise new behaviours.
+people who Want to become more confident, socially comfortable but struggle to translate their ideal self into real life actions.
 
 **THE PRODUCT — Name and Category**
 
-**AlterYou** is a personalized, AI-powered self-development simulator that creates a virtual version of the user.
+**AlterYou** 
 
 **THAT — Key Benefits**
 
-- Create a virtual self with desired personality traits and goals.
-- Simulate real-life situations and explore how their ideal self might respond.
-- Practise confidence, communication, and decision-making in a safe environment.
+- Creates alter version of users.
+- Users get to add their desired peronality, traits, goals.
+- Users can stimulate real life situations to see how their ideal self may respond.
+- Users practise confidence, communication etc in a safe environment.
 
 **UNLIKE — Existing Alternatives**
 
-Generic AI chatbots, motivational apps, and conventional self-improvement tools that offer general advice or role-playing experiences.
+Generic AI chatbots, motivational apps.
 
 **OUR PRODUCT — Primary Differentiation**
 
-AlterYou personalizes simulations around each user's identity, goals, and desired traits, helping them rehearse their ideal behaviours and apply what they learn in real life.
+It creates personalized scenarios based on users' goals and desired traits, helping them practise being their ideal selves in real life.
